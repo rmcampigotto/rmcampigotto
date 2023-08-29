@@ -2,7 +2,7 @@
 #### Find me here:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-manso-campigotto-a39a35233/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/rmcampigotto?hr_r=1)
-###### E-mail: campigottorafael@outlook.com
+###### E-mail: rmcampigotto@gmail.com
 #### Git Status:
 ![Rmcampigotto Stats](https://github-readme-stats.vercel.app/api?username=rmcampigotto&show_icons=true&theme=radical)
 #### Techs:
