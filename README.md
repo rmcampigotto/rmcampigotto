@@ -2,16 +2,9 @@
 #### Find me here:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-manso-campigotto-a39a35233/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/rmcampigotto?hr_r=1)
-###### E-mail: rmcampigotto@gmail.com
-#### Techs:
-###### Known:
-<div style="display: inline-block">
-  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img align="center" alt="MYSQL" src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</div>
+##### E-mail: rmcampigotto@gmail.com
 
-###### Interested/Learning:
+##### Interested/Learning:
 <div style="display: inline-block">
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="ORACLE" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
