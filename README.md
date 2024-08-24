@@ -27,7 +27,7 @@
 
 ###### Others:
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
-<br/>\
+<br/>
 
 ##
 ![rmcampigotto GitHub stats](https://github-readme-stats.vercel.app/api?username=rmcampigotto&show_icons=true&theme=transparent)
