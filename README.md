@@ -9,6 +9,11 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
+### 🎯 Current Focus
+**Software Architecture** & **AI Agents**
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
 ### 🛠 My Tech Stack
 
 **Languages & Frameworks**
