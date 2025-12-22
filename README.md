@@ -34,17 +34,9 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-### 📊 GitHub Stats
+### 📊 Code Stats
 
 <table align="center" border="0">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=rmcampigotto&show_icons=true&theme=tokyonight&border_radius=10" alt="Rafael's GitHub stats" height="180px" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://streak-stats.demolab.com/?user=rmcampigotto&theme=tokyonight&border_radius=10" alt="GitHub Streak" height="180px" />
-    </td>
-  </tr>
   <tr>
     <td colspan="2" align="center" style="padding: 10px;">
       <img src="https://leetcard.jacoblin.cool/rmcampigotto?theme=dark&font=Fira+Code&ext=activity" alt="LeetCode Card" width="450px" />
