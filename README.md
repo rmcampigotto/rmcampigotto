@@ -4,13 +4,13 @@
 
 ### ⚡ Backend Developer | NestJS & TypeScript Specialist
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafael-manso-campigotto-a39a35233/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rmcampigotto/?locale=en_US)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:rmcampigotto@gmail.com)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ### 🎯 Current Focus
-**Software Architecture** & **AI Agents**
+**Software Architecture**, **AI Agents** & **Frontend**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
@@ -22,15 +22,15 @@
 
 <br>
 
-**Cloud & Infrastructure**
+**Cloud, Infrastructure & Tools**
 <br>
-[![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,docker,railway)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,docker,git)](https://skillicons.dev)
 
 <br>
 
-**Databases & Tools**
+**Database**
 <br>
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
