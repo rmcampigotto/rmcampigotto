@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ### 🎯 Current Focus
-**Software Architecture**, **AI Agents** & **Frontend**
+**Software Architecture**, **System Design**, **AI Agents** & **Frontend**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
