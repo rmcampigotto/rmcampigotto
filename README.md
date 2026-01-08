@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Rafael!
 
-### ⚡ Backend Developer | NestJS & TypeScript Specialist
+### ⚡ Backend Developer
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rmcampigotto/?locale=en_US)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:rmcampigotto@gmail.com)
@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ### 🎯 Current Focus
-**Software Architecture**, **System Design**, **AI Agents** & **Frontend**
+**Software Architecture**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
